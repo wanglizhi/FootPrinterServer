@@ -1,6 +1,6 @@
-## Footprinter 服务器端
-
 ![](https://raw.githubusercontent.com/wanglizhi/FootPrinterServer/master/logo.png)
+
+## Footprinter 服务器端
 
 Footprinter项目简介见[Footprinter Client](https://github.com/wanglizhi/FootPrinterClient)
 
@@ -12,6 +12,8 @@ Footprinter项目简介见[Footprinter Client](https://github.com/wanglizhi/Foot
 
 爬虫都是有规则的HTML页面，特定的爬取目标，没有JS干扰，设置了sleep防止被封IP。
 
-![](https://raw.githubusercontent.com/wanglizhi/FootPrinterServer/master/images/滨湖公园.jpg)
+**欣赏下景点的美景**
+
+![](https://raw.githubusercontent.com/wanglizhi/FootPrinterServer/master/head/滨湖公园.jpg)
 
 **说明** 为减小体积，代码中的lib包和一些资源文件有删除
